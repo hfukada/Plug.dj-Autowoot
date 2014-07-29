@@ -10,4 +10,4 @@ setInterval(function () {
   
   ) { $('#woot').click(); } 
 
-}, 5000);
+}, 120000); //Check every 2 minutes
