@@ -11,4 +11,4 @@ setInterval(function () {
     && !mehhed_song        // haven't meh'd this song
   ) { $('#woot').click(); }
 
-}, 120000); //Check every 2 minutes
+}, 20000); //Check every 20 seconds
