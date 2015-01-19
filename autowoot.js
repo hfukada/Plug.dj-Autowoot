@@ -1,4 +1,4 @@
-API.sendChat('AutoWoot: suroi is such a good person');
+API.sendChat('AutoWoot Enabled');
 
 setInterval(function () {
   var already_wooting = $('#woot > .top > .icon').hasClass('icon-woot-disabled');
